@@ -10,3 +10,8 @@ npm install
 npm start
 ```
 
+Postman collection file is also found on root:
+
+```
+TeacherStudent.postman_collection.json
+```
